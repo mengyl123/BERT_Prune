@@ -1,10 +1,6 @@
-# 标题
+# BERT-Based 推理和激活值稀疏化
 
-## 副标题
-
-### 子标题
-
-正文内容。
+使用huggingface的Transformer库实现的BERT-Based模型的推理和微调。推理脚本为[glue_validation.py](https://github.com/mengyl123/BERT_Prune/blob/main/glue_validation.py)
 
 **加粗文本**
 
